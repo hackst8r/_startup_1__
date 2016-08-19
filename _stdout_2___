@@ -1,0 +1,2 @@
+#! echo '$0' "$1"
+:#!./yap_l__1.bash -l _stdout_2___.pl
